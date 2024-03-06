@@ -77,7 +77,7 @@ If you like to see more options - download the project and check previews for th
 
 ## NotificationView Component
 
-<br>**now a part of BBCFeedbackView bc it uses it to create a standalone bug report view**
+<br> --- **Now a part of BBCFeedbackView bc it uses it to create a standalone bug report view** ---
 
 ### Description
 This view started as a way to show user an error without making it an alert. It evolved into a rater subtile notification view - which does not require user to react to it immediately in any way, but allows them to share the bug report in a few clicks.
